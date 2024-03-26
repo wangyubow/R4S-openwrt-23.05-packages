@@ -1,0 +1,5 @@
+src-git kenzo https://github.com/kenzok8/openwrt-packages^396f9a7
+src-git small https://github.com/kenzok8/small^454a56b
+src-git packages https://git.openwrt.org/feed/packages.git^53896bd1a
+src-git luci https://git.openwrt.org/project/luci.git^e0719a2
+src-git routing https://git.openwrt.org/feed/routing.git^6487539

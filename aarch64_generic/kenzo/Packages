@@ -1,0 +1,38 @@
+Package: adguardhome
+Version: 0.107.46-1
+Depends: libc, ca-bundle
+License: GPL-3.0-only
+Section: net
+Architecture: aarch64_generic
+Installed-Size: 10044804
+Filename: adguardhome_0.107.46-1_aarch64_generic.ipk
+Size: 10019226
+SHA256sum: 3c05a79e9e19febf008e6d5b61f92416234134c749ad2c05c22ef13a2562eec3
+Description:  Free and open source, powerful network-wide ads and trackers blocking DNS server.
+
+Package: lua-maxminddb
+Version: 0.2-1
+Depends: libc, lua, libmaxminddb
+License: MIT
+Section: lang
+Architecture: aarch64_generic
+Installed-Size: 2691
+Filename: lua-maxminddb_0.2-1_aarch64_generic.ipk
+Size: 3275
+SHA256sum: 39388e38d13f6d92f266ab8d79ac1a537d833e4e6619814303287b4704766760
+Description:  libmaxminddb bindings for lua
+
+Package: smartdns
+Version: 45-1
+Depends: libc, libpthread, libopenssl3
+License: GPL-3.0-or-later
+Section: net
+Architecture: aarch64_generic
+Installed-Size: 233588
+Filename: smartdns_45-1_aarch64_generic.ipk
+Size: 234160
+SHA256sum: 3fdf07e6df05977a13e0d50fd964bc9293ab1965642e247b068d3bdde4166158
+Description:  SmartDNS is a local DNS server which accepts DNS query requests from local network clients,
+ gets DNS query results from multiple upstream DNS servers concurrently, and returns the fastest IP to clients.
+ Unlike dnsmasq's all-servers, smartdns returns the fastest IP, and encrypt DNS queries with DoT or DoH.
+
